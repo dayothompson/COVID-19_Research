@@ -7,7 +7,6 @@
 
 At the end of this report, we will know….
 1. Who was affected by the virus?
-3
 2. Which regions in Ontario were affected?
 3. How was the virus contracted?
 4. What roles do weather conditions play in the spread of the virus in
@@ -15,15 +14,21 @@ Toronto?
 
 ### Project Members
 Dayo Thompson
+
 Kirushan Kirubaharan
+
 Sushant Deshpande
+
 
 
 
 ## Data Sources
 All data collected from January 23, 2020 to June 30,2020
+
 https://data.ontario.ca
+
 https://www.wunderground.com/history/monthly/ca/toronto
+
 https://www.kaggle.com
 
 
@@ -66,15 +71,20 @@ Toronto later in this analysis.
 
 
 ### Which regions in Ontario were affected?
-February ![Feb](pdf%20images/Feb.png)
+February 
+![Feb](pdf%20images/Feb.png)
 
-March ![Mar](pdf%20images/Mar.png)
+March 
+![Mar](pdf%20images/Mar.png)
 
-April ![Apr](untitled%20folder/Apr.png)
+April 
+![Apr](pdf%20images/Apr.png)
 
-May ![May](pdf%20images/May.png)
+May 
+![May](pdf%20images/May.png)
 
-June ![Jun](pdf%20images/Jun.png)
+June 
+![Jun](pdf%20images/Jun.png)
 
 
 From April to May, there was a 25% decrease in the number of cases, while from May to June, there was a huge decline of 42% in the number of cases. By the end of June, New Liskeard did not report any cases.
@@ -87,24 +97,33 @@ From April to May, there was a 25% decrease in the number of cases, while from 
 ### What age groups were mainly affected by the virus?
 ![Picture7](pdf%20images/Picture7.png)
 
-Resolved cases ![Picture8](pdf%20images/Picture8.png)
+### TreeMap of total reported cases
+
+Resolved cases 
+![Picture8](pdf%20images/Picture8.png)
 
 
-Fatal cases ![Picture9](pdf%20images/Picture9.png)
+Fatal cases 
+![Picture9](pdf%20images/Picture9.png)
 
 
-Not Resolved cases ![Picture10](pdf%20images/Picture10.png)
+Not Resolved cases 
+![Picture10](pdf%20images/Picture10.png)
 
 
 ### Outcome of the total cases
 Resolved cases – 87.3%
+
 Fatal cases – 7.5%
+
 Not Resolved cases – 5.1% 
+
 
 
 ### How was the virus contracted?
 ![Picture11](pdf%20images/Picture11.png)
 
+#### Virus Acquisition by sex
 ![Picture12](pdf%20images/Picture12.png)
 
 
