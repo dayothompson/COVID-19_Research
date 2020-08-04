@@ -72,27 +72,22 @@ Toronto later in this analysis.
 
 ### Which regions in Ontario were affected?
 February
-
 ![Feb](pdf%20images/Feb.png)
 
 
 March 
-
 ![Mar](pdf%20images/Mar.png)
 
 
 April 
-
 ![Apr](pdf%20images/Apr.png)
 
 
 May 
-
 ![May](pdf%20images/May.png)
 
 
 June 
-
 ![Jun](pdf%20images/Jun.png)
 
 
