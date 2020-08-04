@@ -71,20 +71,30 @@ Toronto later in this analysis.
 
 
 ### Which regions in Ontario were affected?
-February 
+February
+
 ![Feb](pdf%20images/Feb.png)
 
+
 March 
+
 ![Mar](pdf%20images/Mar.png)
 
+
 April 
+
 ![Apr](pdf%20images/Apr.png)
 
+
 May 
+
 ![May](pdf%20images/May.png)
 
+
 June 
+
 ![Jun](pdf%20images/Jun.png)
+
 
 
 From April to May, there was a 25% decrease in the number of cases, while from May to June, there was a huge decline of 42% in the number of cases. By the end of June, New Liskeard did not report any cases.
@@ -97,18 +107,24 @@ From April to May, there was a 25% decrease in the number of cases, while from 
 ### What age groups were mainly affected by the virus?
 ![Picture7](pdf%20images/Picture7.png)
 
-### TreeMap of total reported cases
+### Tree Map of total reported cases
 
 Resolved cases 
+
 ![Picture8](pdf%20images/Picture8.png)
 
 
+
 Fatal cases 
+
 ![Picture9](pdf%20images/Picture9.png)
 
 
+
 Not Resolved cases 
+
 ![Picture10](pdf%20images/Picture10.png)
+
 
 
 ### Outcome of the total cases
