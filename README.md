@@ -21,23 +21,23 @@ https://www.wunderground.com/history/monthly/ca/toronto
 https://www.kaggle.com
 
 
-###1. Data Exploring and Cleanup
+#### 1. Data Exploring and Cleanup
 
 
-####Ontario Dataset (before)
+#### Ontario Dataset (before)
 ![Picture1](pdf%20images/Picture1.png)
 
-####Ontario Dataset (after)
+#### Ontario Dataset (after)
 ![Picture2](pdf%20images/Picture2.png)
 
 
 
-##Using the Ontario dataset and Toronto weather dataset, we decided to merge dataframes.
+## Using the Ontario dataset and Toronto weather dataset, we decided to merge dataframes.
 
-####Toronto Weather Dataset (before)
+#### Toronto Weather Dataset (before)
 ![Picture3](pdf%20images/Picture3.png)
 
-####Toronto Weather Dataset (after)
+#### Toronto Weather Dataset (after)
 ![Picture4](pdf%20images/Picture4.png)
 
 
