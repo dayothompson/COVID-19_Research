@@ -160,7 +160,7 @@ In Ontario, major cities were severely impacted including Toronto (largest numbe
 April 2020 was the peak spread of the virus as it had the most cases in Ontario.
 Females had a higher mortality rate but also a higher recovery rate than males.
 Females were mostly contracting the virus through outbreak, while males were mostly contracting the virus through close contact.
-Majority of the data shows as the temperature increases over time; total  reported cases reduces. 
+Further analysis shows that as the temperature increases over time; total reported cases reduces. 
 
 
 
