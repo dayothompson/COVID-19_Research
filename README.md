@@ -148,19 +148,17 @@ Not Resolved cases – 5.1%
 
 
 ### Implications of Findings
-Some of the reported cases in Ontario occurred in cities closes to the US borders, suggesting this might have added to the spread.
+Some of the reported cases in Ontario occurred in cities closes to the US borders, suggesting border travel might have added to the spread.
 The most common means of contracting the virus was due to lack of proper precautions.
-Largely populated cities are responsible for most of the spread in Ontario.
-In February, population was not reporting symptoms as virus was not classified as severe at that time. In March, the virus was considered a pandemic and reported cases increased significantly but started reducing by the end of May and June.
-Temperature played a significant role in the decease of total cases.
+Densely populated cities contributed largely to the fast spread in Ontario.
+In February, symptoms were not being reported because the virus was not classified severe or a pandemic at the time. In March, the virus was considered a pandemic and reported cases increased significantly but started reducing by the end of May and June.
 
 
 ## Conclusions
 In Ontario, major cities were severely impacted including Toronto (largest numbers) and GTA.
 April 2020 was the peak spread of the virus as it had the most cases in Ontario.
 Females had a higher mortality rate but also a higher recovery rate than males.
-Females were mostly contracting the virus through outbreak, while males were mostly contracting the virus through close contact.
-Further analysis shows that as the temperature increases over time; total reported cases reduces. 
+Females were mostly contracting the virus through the outbreak spread, while males were mostly contracting the virus through close contact with known infected people.
 
 
 
